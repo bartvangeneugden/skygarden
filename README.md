@@ -30,8 +30,8 @@ In 5 easy steps:
   ['2017-02-19', '2017-02-26', '2017-03-05'].forEach((date) => { //CHANGE THESE
   ```
 
- - Run this script somewhere by cron. I had it running hourly:
+ - Run `npm install`. Then run this script somewhere by cron. I had it running hourly:
 
    ```
-   0 * * * * node /opt/skygarden/index.j
+   0 * * * * node /opt/skygarden/index.js
    ```
