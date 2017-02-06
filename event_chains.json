@@ -1,0 +1,334 @@
+{
+  "total_entries": 2,
+  "_embedded": {
+    "event_chains": [
+      {
+        "id": 543,
+        "name": "Public Free Visit: Tuesday - Friday Morning",
+        "description": "",
+        "duration": 60,
+        "group": "Public Visits",
+        "time": "2000-01-01T10:00:00+00:00",
+        "long_description": "",
+        "capacity_view": 2,
+        "start_date": "2017-02-07",
+        "end_date": "2017-02-10",
+        "spaces": 0,
+        "price": 0,
+        "max_num_bookings": 1,
+        "max_advance_time": "2017-02-24T20:21:43+00:00",
+        "min_advance_time": "2017-02-03T20:21:43+00:00",
+        "ticket_type": "single_space",
+        "email_per_ticket": true,
+        "questions_per_ticket": true,
+        "course": false,
+        "_embedded": {
+          "ticket_sets": [
+            {
+              "name": "Adult",
+              "type": "normal",
+              "price": 0,
+              "event_chain_id": 543,
+              "id": 2213,
+              "min_num_bookings": 1,
+              "max_num_bookings": 10,
+              "pool_name": "Admittance",
+              "pool_id": 1393,
+              "pool_description": "",
+              "spaces": 95,
+              "price_type_id": 1,
+              "_links": {
+                "self": {
+                  "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/543/prices/2213/1"
+                }
+              }
+            },
+            {
+              "name": "Child",
+              "type": "normal",
+              "price": 0,
+              "event_chain_id": 543,
+              "id": 2214,
+              "min_num_bookings": 1,
+              "max_num_bookings": 10,
+              "pool_name": "Admittance",
+              "pool_id": 1393,
+              "pool_description": "",
+              "spaces": 95,
+              "price_type_id": 2,
+              "_links": {
+                "self": {
+                  "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/543/prices/2214/2"
+                }
+              }
+            },
+            {
+              "name": "Assistance Required",
+              "type": "normal",
+              "price": 0,
+              "event_chain_id": 543,
+              "id": 2215,
+              "min_num_bookings": 1,
+              "max_num_bookings": 1,
+              "pool_name": "Admittance",
+              "pool_id": 1394,
+              "pool_description": "",
+              "spaces": 1,
+              "price_type_id": 3,
+              "_links": {
+                "self": {
+                  "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/543/prices/2215/3"
+                }
+              }
+            },
+            {
+              "name": "Adult",
+              "type": "normal",
+              "price": 0,
+              "event_chain_id": 543,
+              "id": 2216,
+              "min_num_bookings": 1,
+              "max_num_bookings": 10,
+              "pool_name": "Walk In",
+              "pool_id": 1395,
+              "pool_description": "",
+              "spaces": 10,
+              "price_type_id": 1,
+              "_links": {
+                "self": {
+                  "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/543/prices/2216/1"
+                }
+              }
+            },
+            {
+              "name": "Child",
+              "type": "normal",
+              "price": 0,
+              "event_chain_id": 543,
+              "id": 2217,
+              "min_num_bookings": 1,
+              "max_num_bookings": 10,
+              "pool_name": "Walk In",
+              "pool_id": 1395,
+              "pool_description": "",
+              "spaces": 10,
+              "price_type_id": 2,
+              "_links": {
+                "self": {
+                  "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/543/prices/2217/2"
+                }
+              }
+            }
+          ],
+          "child_event_chains": [],
+          "questions": {
+            "company_id": 37002,
+            "questions": [
+              {
+                "id": 21,
+                "name": "What kind of assistance do you require?",
+                "required": false,
+                "important": false,
+                "admin_only": false,
+                "applies_to": 0,
+                "ask_member": true,
+                "detail_type": "text_field",
+                "settings": {},
+                "price": 0,
+                "price_per_booking": false,
+                "outcome": false,
+                "_links": {
+                  "self": {
+                    "href": "/37000/questions/21"
+                  }
+                }
+              }
+            ],
+            "_links": {
+              "self": {
+                "href": "/37002/questions?detail_group_id=18533"
+              }
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/543"
+          },
+          "questions": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/questions?detail_group_id=18533"
+          },
+          "address": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/addresses/30191"
+          }
+        }
+      },
+      {
+        "id": 544,
+        "name": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "description": "",
+        "duration": 60,
+        "group": "Public Visits",
+        "time": "2000-01-01T12:00:00+00:00",
+        "long_description": "",
+        "capacity_view": 2,
+        "start_date": "2017-02-07",
+        "end_date": "2017-02-09",
+        "spaces": 0,
+        "price": 0,
+        "max_num_bookings": 1,
+        "max_advance_time": "2017-02-24T20:21:44+00:00",
+        "min_advance_time": "2017-02-03T20:21:44+00:00",
+        "ticket_type": "single_space",
+        "email_per_ticket": true,
+        "questions_per_ticket": true,
+        "course": false,
+        "_embedded": {
+          "ticket_sets": [
+            {
+              "name": "Adult",
+              "type": "normal",
+              "price": 0,
+              "event_chain_id": 544,
+              "id": 2218,
+              "min_num_bookings": 1,
+              "max_num_bookings": 10,
+              "pool_name": "Admittance",
+              "pool_id": 1396,
+              "pool_description": "",
+              "spaces": 85,
+              "price_type_id": 1,
+              "_links": {
+                "self": {
+                  "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544/prices/2218/1"
+                }
+              }
+            },
+            {
+              "name": "Child",
+              "type": "normal",
+              "price": 0,
+              "event_chain_id": 544,
+              "id": 2219,
+              "min_num_bookings": 1,
+              "max_num_bookings": 10,
+              "pool_name": "Admittance",
+              "pool_id": 1396,
+              "pool_description": "",
+              "spaces": 85,
+              "price_type_id": 2,
+              "_links": {
+                "self": {
+                  "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544/prices/2219/2"
+                }
+              }
+            },
+            {
+              "name": "Assistance Required",
+              "type": "normal",
+              "price": 0,
+              "event_chain_id": 544,
+              "id": 2220,
+              "min_num_bookings": 1,
+              "max_num_bookings": 1,
+              "pool_name": "Admittance",
+              "pool_id": 1397,
+              "pool_description": "",
+              "spaces": 1,
+              "price_type_id": 3,
+              "_links": {
+                "self": {
+                  "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544/prices/2220/3"
+                }
+              }
+            },
+            {
+              "name": "Adult",
+              "type": "normal",
+              "price": 0,
+              "event_chain_id": 544,
+              "id": 2221,
+              "min_num_bookings": 1,
+              "max_num_bookings": 10,
+              "pool_name": "Walk In",
+              "pool_id": 1398,
+              "pool_description": "",
+              "spaces": 10,
+              "price_type_id": 1,
+              "_links": {
+                "self": {
+                  "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544/prices/2221/1"
+                }
+              }
+            },
+            {
+              "name": "Child",
+              "type": "normal",
+              "price": 0,
+              "event_chain_id": 544,
+              "id": 2222,
+              "min_num_bookings": 1,
+              "max_num_bookings": 10,
+              "pool_name": "Walk In",
+              "pool_id": 1398,
+              "pool_description": "",
+              "spaces": 10,
+              "price_type_id": 2,
+              "_links": {
+                "self": {
+                  "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544/prices/2222/2"
+                }
+              }
+            }
+          ],
+          "child_event_chains": [],
+          "questions": {
+            "company_id": 37002,
+            "questions": [
+              {
+                "id": 21,
+                "name": "What kind of assistance do you require?",
+                "required": false,
+                "important": false,
+                "admin_only": false,
+                "applies_to": 0,
+                "ask_member": true,
+                "detail_type": "text_field",
+                "settings": {},
+                "price": 0,
+                "price_per_booking": false,
+                "outcome": false,
+                "_links": {
+                  "self": {
+                    "href": "/37000/questions/21"
+                  }
+                }
+              }
+            ],
+            "_links": {
+              "self": {
+                "href": "/37002/questions?detail_group_id=18533"
+              }
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544"
+          },
+          "questions": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/questions?detail_group_id=18533"
+          },
+          "address": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/addresses/30191"
+          }
+        }
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains?page=1&per_page=100"
+    }
+  }
+}

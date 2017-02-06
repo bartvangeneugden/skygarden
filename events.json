@@ -1,0 +1,1346 @@
+{
+  "total_entries": 29,
+  "_embedded": {
+    "events": [
+      {
+        "id": 43084,
+        "datetime": "2017-02-08T10:00:00+00:00",
+        "description": "Public Free Visit: Tuesday - Friday Morning",
+        "status": 4,
+        "spaces_booked": 98,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 106,
+        "spaces_wait": 0,
+        "event_chain_id": 543,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1393": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1394": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1395": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43084"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/543{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43084&event_chain_id=543{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43085,
+        "datetime": "2017-02-08T10:15:00+00:00",
+        "description": "Public Free Visit: Tuesday - Friday Morning",
+        "status": 4,
+        "spaces_booked": 96,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 106,
+        "spaces_wait": 0,
+        "event_chain_id": 543,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1393": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1394": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1395": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43085"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/543{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43085&event_chain_id=543{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43086,
+        "datetime": "2017-02-08T10:30:00+00:00",
+        "description": "Public Free Visit: Tuesday - Friday Morning",
+        "status": 4,
+        "spaces_booked": 95,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 106,
+        "spaces_wait": 0,
+        "event_chain_id": 543,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1393": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1394": {
+            "name": "Admittance",
+            "left": 1
+          },
+          "1395": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43086"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/543{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43086&event_chain_id=543{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43087,
+        "datetime": "2017-02-08T10:45:00+00:00",
+        "description": "Public Free Visit: Tuesday - Friday Morning",
+        "status": 4,
+        "spaces_booked": 96,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 106,
+        "spaces_wait": 0,
+        "event_chain_id": 543,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1393": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1394": {
+            "name": "Admittance",
+            "left": 1
+          },
+          "1395": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43087"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/543{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43087&event_chain_id=543{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43088,
+        "datetime": "2017-02-08T11:00:00+00:00",
+        "description": "Public Free Visit: Tuesday - Friday Morning",
+        "status": 4,
+        "spaces_booked": 97,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 106,
+        "spaces_wait": 0,
+        "event_chain_id": 543,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1393": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1394": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1395": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43088"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/543{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43088&event_chain_id=543{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43089,
+        "datetime": "2017-02-08T11:15:00+00:00",
+        "description": "Public Free Visit: Tuesday - Friday Morning",
+        "status": 4,
+        "spaces_booked": 98,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 106,
+        "spaces_wait": 0,
+        "event_chain_id": 543,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1393": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1394": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1395": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43089"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/543{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43089&event_chain_id=543{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43090,
+        "datetime": "2017-02-08T11:30:00+00:00",
+        "description": "Public Free Visit: Tuesday - Friday Morning",
+        "status": 4,
+        "spaces_booked": 96,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 106,
+        "spaces_wait": 0,
+        "event_chain_id": 543,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1393": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1394": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1395": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43090"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/543{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43090&event_chain_id=543{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43091,
+        "datetime": "2017-02-08T11:45:00+00:00",
+        "description": "Public Free Visit: Tuesday - Friday Morning",
+        "status": 4,
+        "spaces_booked": 99,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 106,
+        "spaces_wait": 0,
+        "event_chain_id": 543,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1393": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1394": {
+            "name": "Admittance",
+            "left": 1
+          },
+          "1395": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43091"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/543{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43091&event_chain_id=543{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43129,
+        "datetime": "2017-02-08T12:00:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 86,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43129"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43129&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43130,
+        "datetime": "2017-02-08T12:15:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 89,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43130"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43130&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43131,
+        "datetime": "2017-02-08T12:30:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 90,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43131"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43131&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43132,
+        "datetime": "2017-02-08T12:45:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 87,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43132"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43132&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43133,
+        "datetime": "2017-02-08T13:00:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 88,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 1
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43133"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43133&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43134,
+        "datetime": "2017-02-08T13:15:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 87,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 1
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43134"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43134&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43135,
+        "datetime": "2017-02-08T13:30:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 89,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 1
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43135"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43135&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43136,
+        "datetime": "2017-02-08T13:45:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 89,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 1
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43136"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43136&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43137,
+        "datetime": "2017-02-08T14:00:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 92,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43137"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43137&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43138,
+        "datetime": "2017-02-08T14:15:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 88,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43138"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43138&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43139,
+        "datetime": "2017-02-08T14:30:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 86,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43139"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43139&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43140,
+        "datetime": "2017-02-08T14:45:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 87,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43140"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43140&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43141,
+        "datetime": "2017-02-08T15:00:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 88,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43141"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43141&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43142,
+        "datetime": "2017-02-08T15:15:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 87,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43142"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43142&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43143,
+        "datetime": "2017-02-08T15:30:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 87,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43143"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43143&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43144,
+        "datetime": "2017-02-08T15:45:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 91,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43144"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43144&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43145,
+        "datetime": "2017-02-08T16:00:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 86,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43145"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43145&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43146,
+        "datetime": "2017-02-08T16:15:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 88,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43146"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43146&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43147,
+        "datetime": "2017-02-08T16:30:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 86,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43147"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43147&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43148,
+        "datetime": "2017-02-08T16:45:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 90,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43148"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43148&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      },
+      {
+        "id": 43149,
+        "datetime": "2017-02-08T17:00:00+00:00",
+        "description": "Public Free Visit: Tuesday-Thursday Afternoon ",
+        "status": 4,
+        "spaces_booked": 88,
+        "spaces_reserved": 0,
+        "spaces_blocked": 0,
+        "spaces_held": 0,
+        "num_spaces": 96,
+        "spaces_wait": 0,
+        "event_chain_id": 544,
+        "service_id": 48320,
+        "duration": 60,
+        "price": 0,
+        "ticket_spaces": {
+          "1396": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1397": {
+            "name": "Admittance",
+            "left": 0
+          },
+          "1398": {
+            "name": "Walk In",
+            "left": 10
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/events/43149"
+          },
+          "event_group": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_groups/48320"
+          },
+          "event_chain": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/event_chains/544{?member_id}",
+            "templated": true
+          },
+          "book": {
+            "href": "https://skygarden.bookingbug.com/api/v1/37002/basket/add_item?event_id=43149&event_chain_id=544{&member_id,service_id,product_id,attachment_id,deal_id,package_id,bulk_purchase_id}",
+            "templated": true
+          }
+        }
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "https://skygarden.bookingbug.com/api/v1/37002/events?start_date=2017-02-08&end_date=2017-02-08&page=1&per_page=100"
+    }
+  }
+}
